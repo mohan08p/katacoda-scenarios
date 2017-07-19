@@ -1,5 +1,7 @@
 {
 	"pathwayTitle": "mohan08p",
+	"title": "Classification of Handwritten Digits",
+	"description": "This scenario explains the classification of handwritten digits using **TensorFlow**.",
 	"backend": {
 		"imageid": "docker"
 	},
