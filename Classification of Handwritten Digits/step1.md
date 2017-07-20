@@ -1,3 +1,5 @@
+## Introduction and Installation of TensorFlow
+
 As [Docker](https://www.docker.com/) is already installed and configured, we are good to go directly downloading and running the **tensorflow** image.
 
 Before moving further, we'll simply understand the problem is **"classifying the handwritten digits from the `MNIST` dataset** and writing a simple classifier for this is often considered as writing a *Hello World* of computer vision. MNIST is a multi-class classification problem. Given an image of a digit, our job is to predict which one it is. We have written an ipython Notebook(official tutorial from tensorflow community) for this tutorial and to make it easier to configure your environment, we'll start with quick screencast with installing TensorFlow using Docker.

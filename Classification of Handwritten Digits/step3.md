@@ -1,4 +1,4 @@
-**Visualize Images**
+## Visualize Images
 
 Let's visualize the images. This code displays an image along with its label, and, you might notice we have reshaping the image
 
