@@ -1,5 +1,7 @@
 {
 	"pathwayTitle": "mohan08p",
+	"title": "Docker Storage Internals",
+	"description": "This scenario explains the basic of docker storage internals.",
 	"backend": {
 		"imageid": "docker"
 	},
