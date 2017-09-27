@@ -1,0 +1,1 @@
+# Ready for faster, cheaper transactions? In this tutorial we will see how stellar works and the steps to run it using docker. Understand the major [Stellar](https://www.stellar.org/) concepts, like consensus, trust and credit, etc. The stellar business model and stellar.org along with addressing how to perform the easy and rapid transactions.

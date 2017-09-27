@@ -1,0 +1,41 @@
+{
+	"pathwayTitle": "mohan08p",
+	"title": "Stellar - Getting Started",
+	"description": "The future of banking is here. Virtual Currency.",
+	"backend": {
+		"imageid": "docker"
+	},
+	"details": {
+		"steps": [{
+				"title": "Stellar Network Overview",
+				"text": "step1.md"
+			},
+			{
+				"title": "Stellar Quickstart Docker Image",
+				"text": "step2.md"
+			},
+			{
+				"title": "Customizing Configurations",
+				"text": "step3.md"
+			},
+			{
+				"title": "Debugging a Running Container",
+				"text": "step4.md"
+			},
+			{
+				"title": "Multiple Launch Commands",
+				"text": "step5.md"
+			}
+		],
+		"intro": {
+			"text": "intro.md",
+			"credits": ""
+		},
+		"finish": {
+			"text": "finish.md"
+		}
+	},
+	"environment": {
+		"uilayout": "terminal"
+	}
+}
